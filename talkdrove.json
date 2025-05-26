@@ -16,12 +16,12 @@
         },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "967714585737",
       "required": true
     },
     "OWNER_NAME": {
       "description": "Enter your name here",
-      "value": "",
+      "value": "اެݪـقِـاެضِـيَ|𝐴𝐿𝑄𝐴𝐷𝑌 𖣩:-) §",
       "required": true
     },
     "STICKER_PACK_NAME": {
