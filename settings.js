@@ -24,7 +24,7 @@ global.botname = process.env.BOT_NAME || 'KANGO-XMD'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '994402916605' 
+global.ownernumber = process.env.OWNER_NUMBER || '967714585737' 
 
 //--------------------[ SUDO ]--------------------------//
 
